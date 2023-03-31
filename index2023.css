@@ -106,6 +106,22 @@ p.right {
         background-color:#1e4294
 	}
 
+p.right1 {
+	color: #ffffff;
+	font-family:Hiragino Sans;
+        text-align:center;
+        font-size:1em;
+        margin-right:0;
+	margin-bottom:0.5em;
+	margin-top:0.5em;
+            margin-left:-0.5em;
+	height:1.5em;
+	width:20em;
+	font-weight:bold;
+        border:solid 1px #1e4294;
+        background-color:#1e4294
+	}
+
 p.right2 {
 	color: #44617b;
         text-align:center;
