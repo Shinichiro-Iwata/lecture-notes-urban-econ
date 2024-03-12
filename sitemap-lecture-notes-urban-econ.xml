@@ -8,12 +8,16 @@
   <lastmod>2023-08-17T18:24:35+09:00</lastmod>
 </url>
   
-   <url>
+<url>
 <loc>https://shinichiro-iwata.github.io/lecture-notes-urban-econ/housing-price-and-policy.html</loc>
 <priority>0.8</priority>
 </url>
+  <url>
+　　<loc>https://shinichiro-iwata.github.io/lecture-notes-urban-econ/housing-price-and-policy.pdf</loc>
+　　<priority>0.8</priority>
+　</url>
 
-     <url>
+<url>
 <loc>https://shinichiro-iwata.github.io/lecture-notes-urban-econ/transportation.html</loc>
 <priority>0.8</priority>
 </url>
@@ -37,7 +41,11 @@
 　<priority>0.8</priority>
 　</url>
   <url>
-　<loc>https://shinichiro-iwata.github.io/lecture-notes-urban-econ/downtown-restaurants.html</loc>
+　<loc>https://shinichiro-iwata.github.io/lecture-notes-urban-econ/housing-children.html</loc>
+　<priority>0.8</priority>
+　</url>
+  <url>
+　<loc>https://shinichiro-iwata.github.io/lecture-notes-urban-econ/medical-expense-subsidies.html</loc>
 　<priority>0.8</priority>
 　</url>
 
