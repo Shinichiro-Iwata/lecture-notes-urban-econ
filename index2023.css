@@ -231,6 +231,10 @@ p a:hover {
         border-bottom:solid 0.2em #555555;
 	}
 
+p.img-right {
+   text-align: right;
+}
+
 p.1 {
 	font-size:0.875em;
         color:#555555;
