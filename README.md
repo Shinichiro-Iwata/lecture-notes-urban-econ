@@ -5,4 +5,4 @@
 <br><b>講義ノート</b>：住宅価格と住宅政策，交通と交通政策，都市内の住宅立地
 <br><b>ニュースの都市経済学</b>：住宅価格と子ども数，地方自治体間の子ども医療費助成競争，店舗立地と商品価格：都心店，準都心店，通常店
 <br><b>ウェブサイト<b>：https://shinichiro-iwata.github.io/lecture-notes-urban-econ/
-<br><img src="kanto-shizuoka-density.png" align="right">
+<br><img src="kanto-shizuoka-pop.png" align="right">
