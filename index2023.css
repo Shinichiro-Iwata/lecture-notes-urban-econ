@@ -264,12 +264,12 @@ ul {
         font-family:Hiragino Sans;
         margin-left:-1em;
         margin-bottom:0.6em; 
-	    line-height:2.0em;
+	    line-height:1.6em;
         }
 
 ul li{
-        padding-top:0.5em;
-        padding-bottom:0.5em;
+        padding-top:0.25em;
+        padding-bottom:02.5em;
       } 
  
 ul a {
