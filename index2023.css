@@ -291,11 +291,16 @@ ul ul {
     margin-top: 0.3em;  /* 見た目を整える */
 }
 
-/* ポチを消す新しいulのクラス */
+* 最初の ul のスタイル */
 .ul-no-marker {
-    list-style-type: none; /* リストマーカーを非表示 */
-    padding-left: 0; /* インデント調整 */
-    margin-left: -1em; /* 既存の ul に揃える */
+    list-style-type: none; /* ポチを消す */
+    padding-left: 0; /* 余計なインデントを削除 */
+    margin-left: 0; /* 親の ul に合わせる */
+}
+
+/* 入れ子の ul のスタイル（適切なインデントをつける） */
+.ul-no-marker ul {
+    margin-left: 1.5em; /* 入れ子のバランスを調整 */
 }
 
 ul.1 {
