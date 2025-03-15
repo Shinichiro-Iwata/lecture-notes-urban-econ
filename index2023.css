@@ -285,6 +285,12 @@ ul a:hover {
         border-bottom:solid 0.2em #000000;
 	}
 
+/* 入れ子のulを調整 */
+ul ul {
+    margin-left: 1.5em; /* 適宜調整 */
+    margin-top: 0.3em;  /* 見た目を整える */
+}
+
 ul.1 {
         text-align:left;
         line-height:2em;
