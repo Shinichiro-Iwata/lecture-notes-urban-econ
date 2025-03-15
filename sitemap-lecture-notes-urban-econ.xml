@@ -12,11 +12,18 @@
 <loc>https://shinichiro-iwata.github.io/lecture-notes-urban-econ/housing-price-and-policy.html</loc>
 <priority>0.8</priority>
 </url>
-  <url>
-　　<loc>https://shinichiro-iwata.github.io/lecture-notes-urban-econ/housing-price-and-policy.pdf</loc>
-　　<priority>0.8</priority>
-　</url>
 
+<url>
+<loc>https://shinichiro-iwata.github.io/lecture-notes-urban-econ/housing-stock-flow.html</loc>
+<priority>0.8</priority>
+</url>
+  
+
+<url>
+<loc>https://shinichiro-iwata.github.io/lecture-notes-urban-econ/hedonic-model.html</loc>
+<priority>0.8</priority>
+</url>
+  
 <url>
 <loc>https://shinichiro-iwata.github.io/lecture-notes-urban-econ/transportation.html</loc>
 <priority>0.8</priority>
@@ -30,25 +37,12 @@
 </url>
 
 
+
+  <url>
+　<loc>https://shinichiro-iwata.github.io/lecture-notes-urban-econ/housing-children.html</loc>
+　<priority>0.8</priority>
+　</url>
   
-<url>
-<loc>https://shinichiro-iwata.github.io/lecture-notes-urban-econ/residential-location-choice.pdf</loc>
-<priority>0.8</priority>
-</url>
-
-<url>
-<loc>https://shinichiro-iwata.github.io/lecture-notes-urban-econ/hedonic-model.html</loc>
-<priority>0.8</priority>
-</url>
-
-  <url>
-　<loc>https://shinichiro-iwata.github.io/lecture-notes-urban-econ/housing-children.html</loc>
-　<priority>0.8</priority>
-　</url>
-  <url>
-　<loc>https://shinichiro-iwata.github.io/lecture-notes-urban-econ/housing-children.html</loc>
-　<priority>0.8</priority>
-　</url>
   <url>
 　<loc>https://shinichiro-iwata.github.io/lecture-notes-urban-econ/medical-expense-subsidies.html</loc>
 　<priority>0.8</priority>
@@ -58,10 +52,7 @@
 <loc>https://shinichiro-iwata.github.io/lecture-notes-urban-econ/downtown-restaurants.html</loc>
 <priority>0.8</priority>
 </url>
-    <url>
-<loc>https://shinichiro-iwata.github.io/lecture-notes-urban-econ/downtown-restaurants.pdf</loc>
-<priority>0.8</priority>
-</url>
+    
 
 
 </urlset>
