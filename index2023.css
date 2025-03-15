@@ -291,22 +291,6 @@ ul ul {
     margin-top: 0.3em;  /* 見た目を整える */
 }
 
-/* 親のulのスタイル */
-.ul-no-marker {
-    list-style-type: none !important; /* ポチを消す */
-    padding-left: 0;                  /* 余計なインデントを削除 */
-    margin-left: 0;                   /* 親のulに合わせる */
-    margin-top: 0;                    /* 上のスペースも調整 */
-    margin-bottom: 0;                 /* 下のスペースも調整 */
-}
-
-/* 入れ子のulのスタイル */
-.ul-no-marker ul {
-    margin-left: 1.5em;  /* 入れ子のインデントを調整 */
-    margin-top: 0;       /* 上のスペース調整 */
-    margin-bottom: 0;    /* 下のスペース調整 */
-}
-
 ul.1 {
         text-align:left;
         line-height:2em;
