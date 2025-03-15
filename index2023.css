@@ -286,7 +286,7 @@ ul a:hover {
 	}
 
 /* 入れ子のulを調整 */
-ul ul {
+ul.right {
     margin-left: 1.5em; /* 適宜調整 */
     margin-top: 0.3em;  /* 見た目を整える */
 }
