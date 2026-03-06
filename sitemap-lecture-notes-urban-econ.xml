@@ -33,6 +33,11 @@
 <loc>https://shinichiro-iwata.github.io/lecture-notes-urban-econ/interurban-location.html</loc>
 <priority>0.8</priority>
 </url>
+
+<url>
+<loc>https://shinichiro-iwata.github.io/lecture-notes-urban-econ/benefits-of-cities.html</loc>
+<priority>0.8</priority>
+</url>
   
 <url>
 <loc>https://shinichiro-iwata.github.io/lecture-notes-urban-econ/residential-location-choice.html</loc>
@@ -75,6 +80,7 @@
 </url>
 
 </urlset>
+
 
 
 
